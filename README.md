@@ -1,2 +1,8 @@
-# setitoff
-Da largest collection of hip hop/rap MIDI files on Gopher
+```
+      __      __   ________  (¯¯(  ________  /¯¯|\¯¯\ '  ___    ___
+  (¯¯(\_(°|¯¯(\_('|_/)  (\_|' )__)|_/)  (\_|'\__'\|_/)¯¯(\_()¯¯(\_(
+)¯¯¯\)¯¯¯)|__(/¯¯(   (__')°  °       (__')°         (___(¯ (___(¯
+ ¯¯¯ ¯¯¯      ¯¯¯'                            °
+      da largest collection of hip hop/rap midi files on gopher
+                   gopher://tilde.pink/1/~ff3366/
+```
